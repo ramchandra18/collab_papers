@@ -1,0 +1,19 @@
+https://pdfs.semanticscholar.org/817c/a671bf4fc6bd3faf4a5131f1f8cee03fe068.pdf
+
+# piece wise decay function for capturing temporal effects of user behavior.
+
+https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p447-koren.pdf
+
+# an overview of techniques to capture temporal effect
+
+http://ceur-ws.org/Vol-2038/paper1.pdf
+
+# half life decaying model
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.5471&rep=rep1&type=pdf
+
+# pseudo rating matrix generation
+
+https://arxiv.org/abs/1805.05005
+
+# a new variant of co factor model which only consider user and item reguralizations.
